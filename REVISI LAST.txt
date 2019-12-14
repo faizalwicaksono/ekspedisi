@@ -1,0 +1,14 @@
+Cetak
+	Sakuharian
+		*Untuk sopir : 
+		(Format seperti difoto)
+		*Untuk pribadi : 
+		Tgl | Cust | plat | Sopir| Dari | Tujuan |Saku
+
+Laporan
+	Laporan labarugi
+	Laporan perawatan
+	Laporan Pembelian (tempo dan lunas)
+	Laporan Invoice (tempo dan lunas)
+
+
